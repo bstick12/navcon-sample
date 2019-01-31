@@ -1,0 +1,7 @@
+---
+applications:
+  - name: navcon
+    buildpacks:
+      - java_buildpack
+    path: build/libs/navcon-sample.jar
+
